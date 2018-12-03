@@ -2,13 +2,13 @@ body {
 
 	margin:0;
 	font-family:Sans-serif;
-	background-color: grey;
+	background-color: #2e86c1;
 
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #5dade2;
   margin-top: 25px;
   z-index: 50;
 }
@@ -16,7 +16,7 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #fff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -24,7 +24,7 @@ body {
 }
 
 .active {
-  background-color: #7B7B7B;
+  background-color: #85c1e9 ;
   color: white;
 }
 
@@ -123,9 +123,9 @@ img {
     top: 0;
     height: 110px;
     width: 100%;
-    background-color: #2196F3;
+    background-color: #2e86c1;
     z-index: -1;
-    position: fixed;
+    position: absolute;
 
 }
 
@@ -204,7 +204,6 @@ img {
 }
 
 body {
-    background: #2e2a2a;
     color: #FFF;
     font-size: 62.5%;
     font-family: 'Roboto', Arial, Helvetica, Sans-serif, Verdana;
@@ -452,14 +451,20 @@ table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
+		margin-top: 20px;
+		border: 2px solid black;
 }
 
 td, th {
-    border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+		border: 2px solid black;
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #585858;
+}
+
+.specs {
+	font-size: 15;
 }

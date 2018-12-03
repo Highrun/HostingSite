@@ -23,33 +23,33 @@
 
   <table>
     <tr>
-      <th>Company</th>
-      <th>Contact</th>
-      <th>Country</th>
+      <th>Klantennamen:</th>
+      <th>Pakket:</th>
+      <th>Prijs:</th>
     </tr>
     <tr>
-      <td>Alfreds Futterkiste</td>
-      <td>Maria Anders</td>
+      <td>Joshua Zoetebier</td>
+      <td>asfd</td>
       <td>Germany</td>
     </tr>
     <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Francisco Chang</td>
+      <td>Yannick Beenen</td>
+      <td>Brons - Hosting</td>
       <td>Mexico</td>
     </tr>
     <tr>
-      <td>Ernst Handel</td>
+      <td>Jendro Knol</td>
       <td>Roland Mendel</td>
       <td>Austria</td>
     </tr>
     <tr>
-      <td>Island Trading</td>
+      <td>Daan Gebraad</td>
       <td>Helen Bennett</td>
       <td>UK</td>
     </tr>
     <tr>
-      <td>Laughing Bacchus Winecellars</td>
-      <td>Yoshi Tannamuri</td>
+      <td>Michael Lahdo</td>
+      <td>Zilver - Hosting</td>
       <td>Canada</td>
     </tr>
     <tr>
