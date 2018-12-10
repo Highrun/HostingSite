@@ -11,12 +11,12 @@ function calculate() {
 	}
 	else if (list == "test2"){
 		// per jaar betalen = korting: 10%
-		totaalprijs = maandprijs * 12;
-		korting = 10;
+		totaalprijs = (maandprijs * 12 ).toFixed(2);
+		korting = (maandprijs * 12 / 100 * 10).toFixed(2);
 }
 	else if (list == "test3"){
-		totaalprijs = maandprijs * 12 * 5;
-		korting = 20;
+		totaalprijs = (maandprijs * 12 ).toFixed(2);
+		korting = (maandprijs * 12 * 5 / 100 * 13).toFixed(2);
 }
 	result.innerHTML = "Totaalprijs: €" + totaalprijs;
 	discount.innerHTML = "Korting: € " + korting;

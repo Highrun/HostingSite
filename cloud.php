@@ -26,8 +26,8 @@
     <div class="pricing-wrapper clearfix">
 
         <div class="pricing-table">
-            <h3 class="pricing-title">Brons</h3>
-            <div class="price">&#8364;5,95<sup>/ maand</sup></div>
+            <h3 class="pricing-title">Geel</h3>
+            <div class="price">&#8364;4<sup>/ maand</sup></div>
             <ul class="table-list">
                 <li>10 GB <span>Opslag</span></li>
                 <li>5 <span>Domeinen</span></li>
@@ -40,14 +40,14 @@
             </ul>
             <!-- Contratar / Bestellen -->
             <div class="table-buy">
-                <p>&#8364;5,95<sup>/ maand</sup></p>
+                <p>&#8364;4<sup>/ maand</sup></p>
                 <a href="#" class="pricing-action">Bestellen</a>
             </div>
         </div>
 
         <div class="pricing-table recommended">
-            <h3 class="pricing-title">Zilver</h3>
-             <div class="price">&#8364;7,95<sup>/ maand</sup></div>
+            <h3 class="pricing-title">Oranje</h3>
+             <div class="price">&#8364;6<sup>/ maand</sup></div>
             <!-- Lista de Caracteristicas / Propiedades -->
             <ul class="table-list">
                 <li>20 GB <span>Opslag</span></li>
@@ -61,14 +61,14 @@
             </ul>
             <!-- Contratar / Bestellen -->
             <div class="table-buy">
-                <p>&#8364;7,95<sup>/ maand</sup></p>
+                <p>&#8364;6<sup>/ maand</sup></p>
                 <a href="#" class="pricing-action">Bestellen</a>
             </div>
         </div>
 
         <div class="pricing-table">
-            <h3 class="pricing-title-green">Goud</h3>
-            <div class="price">&#8364;10,95<sup>/ maand</sup></div>
+            <h3 class="pricing-title-green">Groen</h3>
+            <div class="price">&#8364;10<sup>/ maand</sup></div>
             <!-- Lista de Caracteristicas / Propiedades -->
             <ul class="table-list">
                 <li>50 GB <span>Opslag</span></li>
@@ -82,7 +82,7 @@
             </ul>
             <!-- Contratar / Bestellen -->
             <div class="table-buy">
-                <p>&#8364;10,95<sup>/ maand</sup></p>
+                <p>&#8364;10<sup>/ maand</sup></p>
                 <a href="#" class="pricing-action">Bestellen</a>
             </div>
         </div>
@@ -91,7 +91,7 @@
   		<option value="test1">Per maand</option>
   		<option value="test2">Per jaar</option>
   		<option value="test3">Per 5 jaar</option>
-  	</select> <br>
+  	</select>
   	<button id="calculate" onclick="calculate()">Berekenen</button>
   	<div id="result">Hier komt het resultaat</div>
   	<div id="discount">Hier komt de korting</div>
